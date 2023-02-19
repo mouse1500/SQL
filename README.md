@@ -6,4 +6,4 @@
 ### Файл 3 - data types
 - В заданиях используются данные с платформы Airbnb в Берлине. 
 ### Файл 4 - SQL_and_Python
-- Работас данными из ClickHousе в среде Python
+- Работа с данными из ClickHousе в среде Python
