@@ -9,3 +9,5 @@
 - Работа с данными из ClickHousе в среде Python
 ### Файл 5 - SQL_visualization
 - Создание дашбордов в  Redash, ссылка на дашборд http://redash.lab.karpov.courses/public/dashboards/awDnsTR8XNnLAfR0DKoWDaR7dZjcxOLGN9NLPiDx?org_slug=default
+### Файл 6 - SQL_window
+- Работа с оконными функциями
